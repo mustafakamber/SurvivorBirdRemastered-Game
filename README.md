@@ -9,9 +9,6 @@
 - LibGDX
 
 
-<iframe src="https://giphy.com/embed/sFcMnobHOZzoc" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bird-sFcMnobHOZzoc">via GIPHY</a></p>
-
-
 <!-- Languages and Tools -->
 <h2 align="left">Some Images about App:</h2>
 
