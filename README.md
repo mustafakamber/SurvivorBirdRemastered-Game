@@ -10,7 +10,7 @@
 
 
 <!-- Languages and Tools -->
-<h2 align="left">Some Images about App:</h2>
+<h2 align="left">Some Images about Game:</h2>
 
 
 | Screen Name          | Screen Shot                                                   |
