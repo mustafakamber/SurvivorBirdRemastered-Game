@@ -15,5 +15,5 @@
 
 | Screen        | Shot                                                   |
 |------------------|------------------------------------------------------------------|
-| Running      | ![LoginScreen](https://imagesharing.com/uploads/20230414/1d89dbe83469cf741a3994712a6fa8d78c4b0ee0.jpg)|
-| GameOver     | ![SignupScreen](https://imagesharing.com/uploads/20230414/f4d5a02347491a2f710006c255b2fa46f1515619.jpg)|
+| Running      | ![LoginScreen](https://i.ibb.co/nbg915J/da2858e3-1264-4aa0-b2ed-2710ea9235db.jpg)|
+| GameOver     | ![SignupScreen](https://i.ibb.co/PzBjQ4q/9f841ebd-b3c0-4770-bc21-458e2973bfb8.jpg)|
