@@ -7,7 +7,7 @@
 <h2 align="left">Technologie I Use:</h2>
 
 - LibGDX
-- ![OpenGameArt](https://opengameart.org)
+- https://opengameart.org
 
 
 <!-- Languages and Tools -->
